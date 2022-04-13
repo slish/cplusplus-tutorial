@@ -1,0 +1,5 @@
+﻿  BmiCalculator.cpp
+  YoutubeTutorial.cpp
+  Generating Code...
+YoutubeTutorial.obj : error LNK2005: main already defined in BmiCalculator.obj
+C:\Users\svein\source\repos\cplusplus-tutorial\YoutubeTutorial\x64\Debug\YoutubeTutorial.exe : fatal error LNK1169: one or more multiply defined symbols found

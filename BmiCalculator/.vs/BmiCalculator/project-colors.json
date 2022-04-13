@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e66562cd-bcf6-46ec-ac29-a558fdd1cabc": {
+      "ProjectGuid": "e66562cd-bcf6-46ec-ac29-a558fdd1cabc",
+      "DisplayName": "BmiCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
